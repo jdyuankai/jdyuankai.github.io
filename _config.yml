@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Zhaoming Yin"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Big data, Graph analysis"
   location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "TRIAS Lab, Alibaba, Oracle"
+  googlescholar    : "https://scholar.google.com/citations?user=p0_SxakAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
