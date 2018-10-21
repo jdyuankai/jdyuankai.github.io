@@ -11,21 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Software Engineering, Hunan University, 2007
+* M.S. in Software Engineering, Peking University, 2010
+* Ph.D in Computational Sci & Eng, Georgia Tech, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-2018: Software Engineer II 
+  * Alibaba Group (Hangzhou) 
+  * Duties included: ODPS cloud service development 
+  * Manager: Yuquan (Michael) Lyu 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014-2016: Member of Technical Staff 
+  * Oracle corp (Redwood Shores) 
+  * Duties included: Golden Gate development 
+  * Manager: Dr. Shu Zhou 
+
+* Summer 2013: Research Assistant
+  * Intel Labs (Santa Clara) 
+  * Duties included: Graph analysis benchmark development 
+  * Supervisor: Dr. Satish Nadathur 
+
+* 2009-2010: Research Assistant
+  * Tsinghua University (Beijing) 
+  * Duties included: Accelerating GPU based sequence alignment algorithms 
+  * Supervisor: Prof. Zhihui Du 
+ 
   
 Skills
 ======
