@@ -1,15 +1,20 @@
 ---
-title: "Paper Title Number 3"
+title: "Streaming breakpoint graph analytics for accelerating and parallelizing the computation of dcj median of three genomes"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This paper utilized algorithm engineering methods to accelerate DCJ median problem.'
+date: 2013-10-01
+venue: 'ICCS'
+paperurl: 'http://stplaydog.github.io/files/paper3.pdf'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+[Download paper here](http://stplaydog.github.io/files/paper3.pdf)
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Bibtex: @article{yin2013streaming,
+  title={Streaming breakpoint graph analytics for accelerating and parallelizing the computation of dcj median of three genomes},
+    author={Yin, Zhaoming and Tang, Jijun and Schaeffer, Stephen W and Bader, David A},
+      journal={Procedia Computer Science},
+        volume={18},
+          pages={561--570},
+            year={2013},
+              publisher={Elsevier}
+}
