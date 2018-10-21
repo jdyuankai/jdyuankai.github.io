@@ -8,8 +8,8 @@ venue: 'IPDPS Workshops'
 paperurl: 'http://stplaydog.github.io/files/paper1.pdf'
 ---
 
-
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
 BibTex: @article{du2010tile,
   title={A tile-based parallel Viterbi algorithm for biological sequence alignment on GPU with CUDA},
     author={Du, Zhihui and Yin, Zhaoming and Bader, David A},
