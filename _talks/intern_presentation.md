@@ -2,7 +2,7 @@
 title: "Parallel Graph Analytics"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
+permalink: /talks/2013-08-01-talk-1
 venue: "Intel Labs internal talk"
 date: 2013-08-01
 location: "Santa Clara, CA"
