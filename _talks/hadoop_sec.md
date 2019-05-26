@@ -3,10 +3,11 @@ title: "Talk ODPS security mechanism"
 collection: talks
 type: "Talk"
 permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
-paperurl: 'http://stplaydog.github.io/files/hadoop_sec.pptx'
+venue: "Alibaba Cloud MVP Series"
+date: 2018-07-15
+location: "Hangzhou, China"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+[Download paper here](http://academicpages.github.io/files/hadoop_sec.pptx)
+
+This talk is about the mechanisms of ODPS security
