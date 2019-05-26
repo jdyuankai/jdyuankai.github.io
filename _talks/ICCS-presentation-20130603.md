@@ -1,5 +1,5 @@
 ---
-title: "Streaming Breakpoint Graph Analytics for Accelerating and Parallelizing the Computation of DCJ Median of Three Genomes"
+title: "ICCS 13 talk"
 collection: talks
 type: "Talk"
 permalink: /talks/2013-06-03-talk-1

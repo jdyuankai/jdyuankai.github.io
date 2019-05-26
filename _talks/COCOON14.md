@@ -1,5 +1,5 @@
 ---
-title: "A Lin-Kernighan Heuristic for the DCJ Median Problem of Genomes with Unequal Contents"
+title: "Lin-Kernighan Heuristic DCJ Talk" 
 collection: talks
 type: "Talk"
 permalink: /talks/2014-02-01-talk-2
