@@ -5,10 +5,10 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about how to use CUDA to accelerate the CRF based biological sequence alignment'
 date: 2010-10-01
 venue: 'BIBM workshops'
-paperurl: 'http://stplaydog.github.io/files/paper2.pdf'
+paperurl: 'http://stplaydog.github.io/files/BIBMW2010.pdf'
 ---
 
-[Download paper here](http://stplaydog.github.io/files/paper2.pdf)
+[Download paper here](http://stplaydog.github.io/files/BIBMW2010.pdf)
 
 Bibtex: @inproceedings{du2010accelerating,
   title={On accelerating iterative algorithms with CUDA: A case study on Conditional Random Fields training algorithm for biological sequence alignment},

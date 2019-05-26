@@ -5,9 +5,9 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper utilized algorithm engineering methods to accelerate DCJ median problem.'
 date: 2013-10-01
 venue: 'ICCS'
-paperurl: 'http://stplaydog.github.io/files/paper3.pdf'
+paperurl: 'http://stplaydog.github.io/files/iccs.pdf'
 ---
-[Download paper here](http://stplaydog.github.io/files/paper3.pdf)
+[Download paper here](http://stplaydog.github.io/files/iccs.pdf)
 
 Bibtex: @article{yin2013streaming,
   title={Streaming breakpoint graph analytics for accelerating and parallelizing the computation of dcj median of three genomes},

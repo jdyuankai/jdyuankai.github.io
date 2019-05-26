@@ -5,9 +5,9 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper described a baseline benchmark to profile graph based applications.'
 date: 2014-10-01
 venue: 'SIGMOD'
-paperurl: 'http://stplaydog.github.io/files/paper3.pdf'
+paperurl: 'http://stplaydog.github.io/files/navi.pdf'
 ---
-[Download paper here](http://stplaydog.github.io/files/paper3.pdf)
+[Download paper here](http://stplaydog.github.io/files/navi.pdf)
 
 Bibtex: @inproceedings{satish2014navigating,
   title={Navigating the maze of graph analytics frameworks using massive graph datasets},

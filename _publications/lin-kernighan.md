@@ -5,9 +5,9 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper described a heuristic to copute DCJ median quickly.'
 date: 2014-10-01
 venue: 'COCOON'
-paperurl: 'http://stplaydog.github.io/files/paper3.pdf'
+paperurl: 'http://stplaydog.github.io/files/link.pdf'
 ---
-[Download paper here](http://stplaydog.github.io/files/paper3.pdf)
+[Download paper here](http://stplaydog.github.io/files/link.pdf)
 
 Bibtex: @inproceedings{yin2014lin,
   title={A Lin-Kernighan heuristic for the DCJ median problem of genomes with unequal contents},
