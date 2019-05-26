@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Zhaoming Yin"
   avatar           : "profile.png"
-  bio              : "Big data, Graph analysis"
+  bio              : "Block chain, Big data, Graph analysis"
   location         : "Hangzhou, San Francisco"
   employer         : "TRIAS Lab, Alibaba, Oracle"
   googlescholar    : "https://scholar.google.com/citations?user=p0_SxakAAAAJ&hl=en"
-  email            :
+  email            : "stplaydog@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,14 +99,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/zhaoming-y-59b43018/"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "stplaydog"
   vine             :
   weibo            :
   xing             :
