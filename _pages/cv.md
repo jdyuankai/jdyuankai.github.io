@@ -19,8 +19,8 @@ Work experience
 ======
 * 2018-Now: Senior Algorithm Engineer
   * TRIAS Lab (Hangzhou) 
-  * Duties included: Lead StreamNet project 
-  * Manager: CEO. Anbang Ruan and CTO Ming Wei 
+  * Duties included: Leviatom and StreamNet project 
+  * Manager: Anbang Ruan and Ming Wei 
    
 * 2016-2018: Software Engineer II 
   * Alibaba Group (Hangzhou) 
