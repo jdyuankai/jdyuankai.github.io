@@ -10,4 +10,4 @@ location: "Hangzhou, China"
 
 This talk is about the mechanisms of ODPS security
 
-[Download slides here](http://academicpages.github.io/files/hadoop_sec.pptx)
+[Download slides here](http://stplaydog.github.io/files/hadoop_sec.pptx)

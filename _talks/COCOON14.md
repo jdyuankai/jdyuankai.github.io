@@ -10,4 +10,4 @@ location: "Atlanta, USA"
 
 This talk is about how to calculate DCJ median using Lin-Kernighan Heuristic algorithm.
 
-[Download slides here](http://academicpages.github.io/files/COCOON14.pptx)
+[Download slides here](http://stplaydog.github.io/files/COCOON14.pptx)

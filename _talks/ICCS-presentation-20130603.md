@@ -10,4 +10,4 @@ location: "Barcelona, Spain"
 
 This talk is about how to utilize streaming graph analysis method to accelerate the DCJ median algorithm.
 
-[Download slides here](http://academicpages.github.io/files/ICCS-presentation-20130603.pptx)
+[Download slides here](http://stplaydog.github.io/files/ICCS-presentation-20130603.pptx)

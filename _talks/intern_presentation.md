@@ -10,4 +10,4 @@ location: "Santa Clara, CA"
 
 This talk is about how to apply intel MIC to perform graph analytics.
 
-[Download slides here](http://academicpages.github.io/files/intern_presentation.ppt)
+[Download slides here](http://stplaydog.github.io/files/intern_presentation.ppt)

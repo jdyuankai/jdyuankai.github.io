@@ -8,7 +8,7 @@ venue: 'YCC'
 paperurl: 'http://stplaydog.github.io/files/n-gram.pdf'
 ---
 
-[Download paper here](http://academicpages.github.io/files/n-gram.pdf)
+[Download paper here](http://stplaydog.github.io/files/n-gram.pdf)
 
 BibTex: @article{du2010tile,
   title={A tile-based parallel Viterbi algorithm for biological sequence alignment on GPU with CUDA},

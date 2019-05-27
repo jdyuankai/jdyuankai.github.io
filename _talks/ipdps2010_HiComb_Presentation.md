@@ -10,4 +10,4 @@ location: "Atlanta, USA"
 
 This talk is about how to use viterbi algorithm to calculate gene matching 
 
-[Download slides here](http://academicpages.github.io/files/ipdps2010_HiComb_Presentation.ppt)
+[Download slides here](http://stplaydog.github.io/files/ipdps2010_HiComb_Presentation.ppt)

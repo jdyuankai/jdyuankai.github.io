@@ -10,4 +10,4 @@ location: "Redwood Shores, USA"
 
 This talk is about how to deploy a SCA test infrastructure. 
 
-[Download slides here](http://academicpages.github.io/files/SCA_test.pptx)
+[Download slides here](http://stplaydog.github.io/files/SCA_test.pptx)

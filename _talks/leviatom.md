@@ -12,4 +12,4 @@ This video is about the general concept of Leviatom
 
 [Watch video here](https://www.youtube.com/watch?v=2aTlO0TQuy0&feature=youtu.be)
 
-[Download slides here](http://academicpages.github.io/files/leviatom-demo.pptx)
+[Download slides here](http://stplaydog.github.io/files/leviatom-demo.pptx)
