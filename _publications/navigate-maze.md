@@ -1,7 +1,7 @@
 ---
 title: "Navigating the maze of graph analytics frameworks using massive graph datasets"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2013-10-01-paper-title-number-2
 excerpt: 'This paper described a baseline benchmark to profile graph based applications.'
 date: 2014-10-01
 venue: 'SIGMOD'

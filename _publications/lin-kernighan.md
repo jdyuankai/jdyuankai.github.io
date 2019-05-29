@@ -1,7 +1,7 @@
 ---
 title: "A Lin-Kernighan Heuristic for the DCJ Median Problem of Genomes with Unequal Contents"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2014-10-01-paper-title-number-1
 excerpt: 'This paper described a heuristic to copute DCJ median quickly.'
 date: 2014-10-01
 venue: 'COCOON'

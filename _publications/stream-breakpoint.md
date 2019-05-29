@@ -1,7 +1,7 @@
 ---
 title: "Streaming breakpoint graph analytics for accelerating and parallelizing the computation of dcj median of three genomes"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2012-10-01-paper-title-number-1
 excerpt: 'This paper utilized algorithm engineering methods to accelerate DCJ median problem.'
 date: 2013-10-01
 venue: 'ICCS'
