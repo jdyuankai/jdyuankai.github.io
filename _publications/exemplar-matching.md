@@ -1,7 +1,7 @@
 ---
 title: "Exemplar or matching: modeling DCJ problems with unequal content genome data"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2016-10-01-paper-title-number-1
 excerpt: 'This paper compares the two different method to compute DCJ distance with unequal content genome data.'
 date: 2016-10-01
 venue: 'JOCO'

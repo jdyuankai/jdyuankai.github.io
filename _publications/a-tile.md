@@ -1,7 +1,7 @@
 ---
 title: "A tile-based parallel Viterbi algorithm for biological sequence alignment on GPU with CUDA"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2010-10-01-paper-title-number-1
 excerpt: 'This paper utilized GPU to accelerate the computation of Gene match based on Viterbi algorithms'
 date: 2010-01-01
 venue: 'IPDPS Workshops'

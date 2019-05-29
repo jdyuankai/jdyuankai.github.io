@@ -1,7 +1,7 @@
 ---
 title: "On accelerating iterative algorithms with CUDA: A case study on Conditional Random Fields training algorithm for biological sequence alignment"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2013-10-01-paper-title-number-1
 excerpt: 'This paper is about how to use CUDA to accelerate the CRF based biological sequence alignment'
 date: 2010-10-01
 venue: 'BIBM workshops'
