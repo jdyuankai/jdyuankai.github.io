@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I grew up in Hengyang, a middle size city in the province of Hunan, China. After 18 years spending with my parents, 
+I grew up in Hengyang, a middle size city in the province of Hunan, China. After 18 years living with my parents, 
 I went out my home town for the first time in my life to Changsha and had a joyful undergraduate study in Hunan University learning Software Engineering. 
 After that I spend 3 years in Peking University under the supervision of Shiwen Yu for NLP research. 
 Then I headed for Atlanta and earned my PhD degree in the area of combinatorial research for bioinformatics and graph analysis. 

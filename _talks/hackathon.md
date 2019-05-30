@@ -11,4 +11,4 @@ location: "San Francisco, CA"
 This talk is about the final design & implementation of Oraber, a car pooling software.
 This talk win the honorable metion award.
 
-[Download slides here](http://stplaydog.github.io/files/hackthon.zip)
+[Reference code](http://stplaydog.github.io/files/hackthon.zip)
