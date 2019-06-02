@@ -15,7 +15,7 @@ After that I spent 3 years in [Peking University](http://www.ss.pku.edu.cn/) und
 Then I headed for Atlanta at [GaTech](https://www.cse.gatech.edu/) and earned my PhD degree in the area of combinatorial research for bioinformatics and graph analysis. 
 My software engineering career started late at the age of 29, and I get my first job at Oracle in the Bay area working on [Golden Gate](https://www.oracle.com/middleware/technologies/goldengate.html), 
 a data base replication software. 
-2 and half years later, I move back to China and live in Hangzhou, and worked in Alibaba Cloud on ODPS -- a big data platform. 
+2 and half years later, I moved back to China and live in Hangzhou, and worked in Alibaba Cloud on ODPS -- a big data platform. 
 Now I am trying something new in [TRIAS Lab](https://www.trias.one/) working on [Leviatom](https://github.com/trias-lab/Documentation) 
 and [StreamNet](https://github.com/triasteam/iri/) project. 
 
