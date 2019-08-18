@@ -18,6 +18,6 @@ My software engineering career started late at the age of 29, and I get my first
 a data base replication software. 
 2 and half years later, I moved back to China and live in Hangzhou, and worked in Alibaba Cloud on [ODPS](https://www.alibabacloud.com/blog/alibaba-cloud-maxcompute---bringing-data-to-life_374338) -- a big data platform. 
 Now I am trying something new in [TRIAS Lab](https://www.trias.one/) working on [Leviatom](https://github.com/trias-lab/Documentation) 
-and [StreamNet](https://github.com/triasteam/iri/) project. 
+and [StreamNet](https://github.com/StreamUnion/StreamNet/) project. 
 
-If you are interested, this is our StreamNet [website](http://streamnet.trias.network/trias-dag/)
+If you are interested, this is our StreamNet [website](http://www.streamnet-chain.com)

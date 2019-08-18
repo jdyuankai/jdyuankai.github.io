@@ -17,10 +17,13 @@ Education
 
 Work experience
 ======
-* 2018-Now: Senior Algorithm Engineer
+* 2019.8 - Now : Founder
+  * StreamNet (Hangzhou) Block Chain LLC 
+  * Website: www.streamnet-chain.com
+* 2018.10-2019.7: Senior Algorithm Engineer (A.K.A Chief Algorithm Architect) 
   * TRIAS Lab (Hangzhou) 
   * Duties included: Leviatom and StreamNet project 
-  * Manager: Anbang Ruan and Ming Wei 
+  * Manager: Dr. Anbang Ruan and Dr. Ming Wei 
    
 * 2016-2018: Software Engineer II 
   * Alibaba Group (Hangzhou) 
@@ -35,7 +38,7 @@ Work experience
 * Summer 2013: Research Assistant
   * Intel Labs (Santa Clara) 
   * Duties included: Graph analysis benchmark development 
-  * Supervisor: Dr. Satish Nadathur 
+  * Supervisor: Dr. Satish Nadathur and Dr. Narayanan Sundaram
 
 * 2009-2010: Research Assistant
   * Tsinghua University (Beijing) 
