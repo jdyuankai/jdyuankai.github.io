@@ -9,7 +9,7 @@ paperurl: 'http://stplaydog.github.io/files/streamnet.pdf'
 ---
 [Download paper here](http://stplaydog.github.io/files/streamnet.pdf)
 
-Bibtex: @article{,
+Bibtex: @article{yin2019streamnet,
   title={StreamNet: A DAG System with Streaming Graph Computing},
   author={Yin, Zhaoming et. al},
   journal={arXiv preprint arXiv:1908.06405},
