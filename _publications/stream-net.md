@@ -1,7 +1,7 @@
 ---
 title: "StreamNet: A DAG System with Streaming Graph Computing"
 collection: publications
-permalink: /publication/2019-10-01-paper-title-number-3
+permalink: /publication/2019-10-01-paper-title-number-1
 excerpt: 'This paper describe a DAG system that is used to accelerate the block-chain TPS"
 date: 2019-10-01
 venue: 'arxiv'
