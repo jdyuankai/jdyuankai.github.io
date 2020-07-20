@@ -18,7 +18,6 @@ My software engineering career started late at the age of 29, and I get my first
 a data base replication software. 
 2 and half years later, I moved back to China and live in Hangzhou, and worked in Alibaba Cloud on [ODPS](https://www.alibabacloud.com/blog/alibaba-cloud-maxcompute---bringing-data-to-life_374338) -- a big data platform. 
 After a short stint in [TRIAS Lab](https://www.trias.one/) working on [Leviatom](https://github.com/trias-lab/Documentation) 
-and [StreamNet](https://github.com/StreamUnion/StreamNet/) project. 
-If you are interested, this is our StreamNet [website](http://www.streamnet-chain.com), and also our Ethereum block-chain application: [Ether-Monkey](ether-monkey.com).
+and [StreamNet](https://github.com/StreamUnion/StreamNet/) project (also see [website](http://www.streamnet-chain.com), [Ether-Monkey](ether-monkey.com)). 
 I now work for Google on [Android Automotive OS system](https://www.theverge.com/2019/10/9/20906777/volvo-xc40-suv-ev-native-android-auto-google-assistant-maps). 
 
