@@ -20,7 +20,7 @@ Work experience
 * 2019.9 - Now : Software Engineer
   * Google (Mountain View) Inc
   * Working on Android Automotive OS
-* 2019.8 - Now : Founder
+* 2019.8 -  : Founder
   * StreamNet (Hangzhou) Block Chain LLC 
   * Website: www.streamnet-chain.com
 * 2018.10-2019.7: Senior Algorithm Engineer (A.K.A Chief Algorithm Architect) 
