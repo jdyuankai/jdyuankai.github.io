@@ -1,17 +1,17 @@
 ---
 title: "Taming near repeat calculation for crime analysis via cohesive subgraph computing"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2020-11-24-paper-title-number-3
 excerpt: 'This paper described a graph based near repeat detection method.'
-date: 2017-10-01
-venue: 'arxiv'
+date: 2020-11-24
+venue: 'Geo Processing 2020'
 paperurl: 'http://stplaydog.github.io/files/taming.pdf'
 ---
 [Download paper here](http://stplaydog.github.io/files/taming.pdf)
 
-Bibtex: @article{yin2017taming,
+Bibtex: @article{yin2020taming,
   title={Taming near repeat calculation for crime analysis via cohesive subgraph computing},
   author={Yin, Zhaoming and Shi, Xuan},
-  journal={arXiv preprint arXiv:1705.07746},
-  year={2017}
+  journal={GeoProcessing 2020},
+  year={2020}
 } 
