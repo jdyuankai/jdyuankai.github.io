@@ -8,7 +8,11 @@ date: 2020-11-06
 location: "Vancouver online/virtual"
 ---
 
+<<<<<<< HEAD
 Contents:
+=======
+This video is about the general concept of Leviatom
+>>>>>>> about
 
 [Watch video here](https://www.loom.com/share/143e357650cb4b7fa54ed67cb94a2db1)
 
