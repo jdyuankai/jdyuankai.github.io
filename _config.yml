@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Zhaoming Yin / Ph.D"
+locale                   : "zh-CN"
+title                    : "袁凯"
 title_separator          : "-"
-name                     : &name "Zhaoming Yin"
+name                     : &name "yuankai"
 description              : &description "personal description"
-url                      : https://stplaydog.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jdyuankai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "stplaydog/stplaydog.github.io"
+repository               : "jdyuankai/jdyuankai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhaoming Yin"
+  name             : "yuankai"
   avatar           : "profile.png"
   bio              : "Block chain, Bioinformatics, Big data, Graph analysis"
-  location         : "Hangzhou, San Francisco"
-  employer         : "Google<-Alibaba<-Oracle"
+  location         : "Hangzhou, ZheJiang"
+  employer         : ""
   googlescholar    : "https://scholar.google.com/citations?user=p0_SxakAAAAJ&hl=en"
-  email            : "stplaydog@gmail.com"
+  email            : "helloyuank@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,19 +94,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "stplaydog"
+  github           : "jdyuankai"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zhaoming-y-59b43018/"
+  linkedin         : 
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "stplaydog"
+  twitter          : "韭菜kari"
   vine             :
   weibo            :
   xing             :
