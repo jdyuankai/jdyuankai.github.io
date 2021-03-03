@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Block chain, Bioinformatics, Big data, Graph analysis"
   location         : "Hangzhou, San Francisco"
-  employer         : "TRIAS Lab, Alibaba, Oracle"
+  employer         : "Google<-Alibaba<-Oracle"
   googlescholar    : "https://scholar.google.com/citations?user=p0_SxakAAAAJ&hl=en"
   email            : "stplaydog@gmail.com"
   uri              :
@@ -177,6 +177,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  patents:
+    output: true
+    permalink: /:collection/:path/
+
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -223,6 +227,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
+# _patents
+  - scope:
+      path: ""
+      type: patents 
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+
   # _portfolio
   - scope:
       path: ""
