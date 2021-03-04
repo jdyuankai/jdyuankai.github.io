@@ -190,7 +190,7 @@ tags:
 
   - 账户准备好之后打开Polymath网站，点击"new security token" 创建代币。
 
-    ![](https://github.com/jdyuankai/jdyuankai.github.io/blob/about/images/new_security_token.jpg)
+    ![](../images/new_security_token.jpg)
 
 + 创建Polymath账户
 
