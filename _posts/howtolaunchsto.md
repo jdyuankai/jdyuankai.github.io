@@ -1,7 +1,7 @@
 ---
 title: 'What is the core advantage of a successful pub-chain?'
-date: 2018-12-28
-permalink: /posts/howtolaunchsto/
+date: 2021-03-04
+permalink: /posts/2021/03/howtolaunchsto/
 tags:
   - block chain 
 ---
