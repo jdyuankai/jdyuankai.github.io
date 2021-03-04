@@ -9,44 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Software Engineering, Hunan University (Xingyan Tian), 2007
-* M.S. in Software Engineering, Peking University (Shiwen Yu), 2010
-* Ph.D in Computational Sci & Eng, Georgia Tech (David A. Bader), 2014
-
-Work experience
-======
-* 2019.9 - Now : Software Engineer
-  * Google (Mountain View) Inc
-  * Working on Android Automotive OS
-* 2019.7 - 2019.9 : Senior Software Expert 
-  * PayTM labs 
-  * Remmitance 
-* 2018.10-2019.7: Senior Algorithm Engineer (A.K.A Chief Algorithm Architect) 
-  * TRIAS Lab (Hangzhou) 
-  * Duties included: Leviatom and StreamNet project 
-  * Manager: Dr. Anbang Ruan and Dr. Ming Wei 
-   
-* 2016-2018: Software Engineer II 
-  * Alibaba Group (Hangzhou) 
-  * Duties included: ODPS cloud service development 
-  * Manager: Yuquan (Michael) Lyu 
-
-* 2014-2016: Member of Technical Staff 
-  * Oracle corp (Redwood Shores) 
-  * Duties included: Golden Gate development 
-  * Manager: Dr. Shu Zhou 
-
-* Summer 2013: Research Assistant
-  * Intel Labs (Santa Clara) 
-  * Duties included: Graph analysis benchmark development 
-  * Supervisor: Dr. Satish Nadathur and Dr. Narayanan Sundaram
-
-* 2009-2010: Research Assistant
-  * Tsinghua University (Beijing) 
-  * Duties included: Accelerating GPU based sequence alignment algorithms 
-  * Supervisor: Prof. Zhihui Du 
 
 Publications
 ======
