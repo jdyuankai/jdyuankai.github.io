@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "袁凯"
+title                    : "Yuan Kai"
 title_separator          : "-"
 name                     : &name "yuankai"
 description              : &description "personal description"
