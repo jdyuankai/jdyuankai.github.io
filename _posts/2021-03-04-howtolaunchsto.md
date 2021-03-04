@@ -1,5 +1,5 @@
 ---
-title: 'What is the core advantage of a successful pub-chain?'
+title: 'STO发行流程'
 date: 2021-03-04
 permalink: /posts/2021/03/howtolaunchsto/
 tags:
@@ -22,7 +22,7 @@ tags:
 
 ## 如何启动STO
 
-![pic](../images/Architecture_Image_STO.svg)
+![pic](https://github.com/jdyuankai/jdyuankai.github.io/blob/about/images/Architecture_Image_STO.svg)
 
 
 
@@ -184,13 +184,13 @@ tags:
 
   - 安装Polymesh Wallet，打开 [dashboard](https://dashboard.polymesh.live/)，点击install Polymesh Wallet
 
-    ![](../images/install-polymesh-wallet.jpg)
+    ![](https://github.com/jdyuankai/jdyuankai.github.io/blob/about/images/install-polymesh-wallet.jpg)
 
   - 从水龙头获取0.1个以太，[水龙头地址](https://zh.enjin.io/software/kovan-faucet)
 
   - 账户准备好之后打开Polymath网站，点击"new security token" 创建代币。
 
-    ![](../images/new_security_token.jpg)
+    ![](https://github.com/jdyuankai/jdyuankai.github.io/blob/about/images/new_security_token.jpg)
 
 + 创建Polymath账户
 
