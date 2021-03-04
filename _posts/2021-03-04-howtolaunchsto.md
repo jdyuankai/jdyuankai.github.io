@@ -4,9 +4,9 @@ date: 2021-03-04
 permalink: /posts/2021/03/howtolaunchsto/
 tags:
   - block chain 
+  - STO
+  - Polymath
 ---
-
-# STO发行
 
 区块链是一项很有前景的技术，它支持诸如以太坊、比特币以及在以太坊、币安智能链等公链上发行的代币和一些安全令牌等加密资产。这些加密资产为金融服务市场带来了巨大的变化。相对于为人所知的代币，安全令牌是一个较为新兴的概念。因此在讨论启动STO（Security Token Offering, 发行安全令牌）之前会首先解释什么是STO以及什么是安全令牌（Security Token）。
 
